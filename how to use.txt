@@ -7,7 +7,7 @@ step to install and configure it
 step-1:-coppy this link:- git clone https://github.com/zupphacked/wifi-DDOS-attack.git
 step-2:-open you'r linux Terminal,and coppy this link.
 step-3:-Go in wifi-DDOS-attack directry.
-step-4:-and run wiffDDOS.py using python3 (python3 wiffDDOS.py)
+step-4:-and run zuppDDOS.py using python3 (python3 wiffDDOS.py)
 step-5:-select your network interfase using his number (0-wlan0)
 step-6:-select your target.using its number
 step-7:-prcess ctrl+c
