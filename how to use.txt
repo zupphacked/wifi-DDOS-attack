@@ -1,0 +1,27 @@
+Hi all of you.
+This is very easy and simple code to use.
+This is very hellp full for wifi DDOS attack.
+step to install and configure it
+
+
+step-1:-coppy this link:- git clone https://github.com/zupphacked/wifi-DDOS-attack.git
+step-2:-open you'r linux Terminal,and coppy this link.
+step-3:-Go in wifi-DDOS-attack directry.
+step-4:-and run wiffDDOS.py using python3 (python3 wiffDDOS.py)
+step-5:-select your network interfase using his number (0-wlan0)
+step-6:-select your target.using its number
+step-7:-prcess ctrl+c
+step-7:-select your target using its number 0,1,2,3)
+
+
+And just watch its working
+
+
+and you can watch video tutorial on this code,how can you use it.
+link for video :-https://www.youtube.com/channel/UCb0pc83CXAuhGkg6Bjvx3TA
+
+hi hope you like thi script 
+
+
+i am a youtuber alsow so please subscrib my youtub channeal:-https://www.youtube.com/channel/UCb0pc83CXAuhGkg6Bjvx3TA
+please subscribe my channeal
